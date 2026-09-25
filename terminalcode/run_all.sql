@@ -1,0 +1,11 @@
+SOURCE 01_company_schema.sql;
+SOURCE 02_company_data.sql;
+SOURCE 03_client_changes.sql;
+SOURCE 04_show_clients.sql;
+SOURCE 05_student_schema.sql;
+SOURCE 06_student_data.sql;
+SOURCE 07_inner_join.sql;
+SOURCE 08_left_join.sql;
+SOURCE 09_right_join.sql;
+SOURCE 10_full_join.sql;
+SOURCE 11_show_databases.sql;
